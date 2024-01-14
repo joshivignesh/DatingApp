@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj": {}
+    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj": {
+    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

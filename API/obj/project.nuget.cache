@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uY/FUaEJ+at42kaCl7R+woSxNNNstC+GgxX+FNZr5AMlYIWfWQnDO6voQ5Vlz2WR0hDG8Q6MQ3NciXDLPdxzHg==",
+  "dgSpecHash": "5vNS8Z6XRvaRlGxvLEZHHU9GJ2ibwIcEGK/XRF9ycPqbMcRFDV55xNF8wp4UeWNzZlC66xV/5QpiQZetcOXtZA==",
   "success": true,
-  "projectFilePath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
