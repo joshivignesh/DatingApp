@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj": {}
+    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj": {
+    "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\API.csproj",
+        "projectPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\api\\obj\\",
+        "outputPath": "D:\\Vignesh\\My Code workouts\\Udemy Workouts\\DotNet\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,16 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.14, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
